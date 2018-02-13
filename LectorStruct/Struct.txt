@@ -1,0 +1,1 @@
+struct key {char *word; int count; double arr[3];};
